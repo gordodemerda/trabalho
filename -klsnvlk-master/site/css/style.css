@@ -1,0 +1,96 @@
+/* --- GLOBAIS --- */
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	vertical-align: baseline;
+	color: black;
+}
+
+html{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+	width: 100%;
+	background-image: url(img/img.jpg);
+	background-position: top center;
+	background-size: cover;
+}
+
+.wrapper{
+	width: 100%;
+	margin: 0 auto;
+}
+
+h1{
+	font-size: 50px;
+	color: #283747;
+}
+
+p{
+	font-size: 16px;
+	color: #5D6D7E;
+}
+
+ul{
+	list-style: none;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+li{
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+/* --- NAV --- */
+nav{
+	height: 90px;
+	line-height: 90px;
+	background: #2E4053;
+
+
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+nav img{
+	vertical-align: middle;
+}
+
+nav a:nth-child(2){
+	float: right;
+}
+/* --- HEADER --- */
+
+header{
+	text-align: center;
+}
+
+header p{
+	width: 45%;
+	margin: 30px auto 0 auto;
+}
+
+header a{
+	color: #283747;
+	text-transform: uppercase;
+	text-decoration: none;
+
+}
+
+h2{
+	font-size: 40px;
+	color: #5D6D7E;
+}
+/* --- montra --- */
+/* --- oQueFazemos --- */
+/* --- trabalhos --- */
+/* --- FOOTER--- */
+/* --- responsive --- */
